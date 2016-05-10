@@ -13,3 +13,7 @@
 
 # formatter
 * https://github.com/Jintin/Swimat
+
+# lib
+* https://github.com/thii/FontAwesome.swift
+* https://github.com/ReactiveX/RxSwift
