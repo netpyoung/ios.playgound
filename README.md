@@ -6,3 +6,10 @@
 * https://github.com/facebook/pop
 * https://github.com/schneiderandre/popping
 * 
+
+
+# Xcode Package MAnager
+* https://github.com/alcatraz/Alcatraz
+
+# formatter
+* https://github.com/Jintin/Swimat
